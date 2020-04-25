@@ -1,0 +1,3 @@
+(\/\*\*[\n\s\w]*\*\*\/)|d
+
+https://docs.google.com/document/d/1D6rkCyG8BibG4D40XRmHQeI9zBFjtC9520Y70D27jyQ/edit?usp=sharing
