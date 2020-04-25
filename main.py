@@ -1,6 +1,5 @@
 import numpy as np
 from matplotlib import pyplot as plt
-import sklearn.cluster
 from scipy.cluster.hierarchy import dendrogram
 from my_comparators import *
 from my_tokenizer import *
